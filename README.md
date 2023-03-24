@@ -2,7 +2,7 @@
 
 # Blobtoolkit-server
 
-BlobToolKit is described in the [BlobToolKit paper](https://doi.org/10.1534/g3.119.400908):
+[BlobToolKit](https://github.com/blobtoolkit/blobtoolkit) is described in the [BlobToolKit paper](https://doi.org/10.1534/g3.119.400908):
 
 > BlobToolKit – Interactive quality assessment of genome assemblies
 > Richard Challis, Edward Richards, Jeena Rajan, Guy Cochrane, Mark Blaxter
